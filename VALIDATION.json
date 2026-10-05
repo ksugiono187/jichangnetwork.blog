@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "site": "机场网络",
+  "primaryKeyword": "机场推荐",
+  "pages": 194,
+  "articles": 123,
+  "topics": 24,
+  "brands": 29,
+  "localReferences": 10612,
+  "anchors": 1849,
+  "brandOrder": "twilight third; dalaocloud fourth; worryfree fifth; original relative order preserved",
+  "coupons": 12,
+  "dalaocloud": {
+    "planRecords": 6,
+    "ownerConfirmed": true,
+    "presentation": "text-only",
+    "sourcePhotosPublished": 0,
+    "serviceStatements": 47,
+    "coupon": "dly888",
+    "couponClaim": "new-user first subscription 30% off; checkout not performed by site",
+    "entryCapacityConflict": [
+      130,
+      120
+    ],
+    "monthlyReferencePrice": 23
+  },
+  "selector": {
+    "required": 180,
+    "matches": 23,
+    "disputedExcluded": true,
+    "unknownQuotaExcluded": true,
+    "dalaocloudMonthlyPrice": 43,
+    "conflictingEntryExcluded": true,
+    "annualAndPaygExcluded": true
+  },
+  "metadata": "unique TDK; valid organization/article/breadcrumb JSON-LD; canonical; OG; Twitter",
+  "sitemaps": {
+    "index": true,
+    "submaps": 4,
+    "indexedUrls": 191,
+    "noindexExcluded": true
+  },
+  "webmcp": "optional browser feature, UI validation recorded separately",
+  "bingSubmission": "not submitted; no verified production domain or site verification token"
+}

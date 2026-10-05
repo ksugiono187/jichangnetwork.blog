@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "quotaFailureFallback": true,
+  "deniedStorageFallback": true,
+  "fallbackCancellation": true,
+  "crossTabInvalidation": true,
+  "corruptRecordHandling": true,
+  "topicSaveCopyPrint": true,
+  "workflowRunsAllChecks": true
+}

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "topics": 24,
+  "authoredCharacters": 21333,
+  "tables": 24,
+  "scenarios": 24,
+  "actionChecklists": 24,
+  "curatedReadingLinks": 72,
+  "shortGuidesReworked": 34,
+  "existingLongReadsPreserved": 2,
+  "technicalReferences": 4,
+  "topicReferenceLinks": 10,
+  "sourceDate": "2026-10-05",
+  "originalPackageRecordsChanged": false
+}
