@@ -1,0 +1,7 @@
+.sites-runtime/
+.preview/
+node_modules/
+*.tar.gz
+.openai/
+.env
+.env.*
